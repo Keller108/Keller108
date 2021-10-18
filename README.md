@@ -1,5 +1,8 @@
-- 👋 Hi, I’m @Keller108, 30 y.o. frontend dev.
-- 👀 I’m interested in process of creating websites and apps.
-- 🌱 I’m currently learning Javasript, React, Node.js.
-- 💞️ I’m looking to collaborate on different projects. Available for hiring. 
-- 📫 You can write me: my e-mails is keller108@yandex.ru
+- 👋 Привет, я Никита Исаев, 30 лет, фронтенд-разработчик.
+- 👀 Я вдохновляюсь веб-технологиями и всем что с ними связано ;)
+- ⚛ Я пишу код на стеке MERN и на данный момент осваиваю TypeScript и Redux.
+- 🤝 Готов к сотрудничеству по проектам.
+- 📫 Можете связаться со мной по эл. почте – keller108@yandex.ru
+
+Мой телеграм: @keller108
+
