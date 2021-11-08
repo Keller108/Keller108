@@ -17,4 +17,4 @@
 ![ESLint](https://img.shields.io/badge/-ESLint-000?&logo=ESLint)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Keller108)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Keller108)](https://github.com/anuraghazra/github-readme-stats) -->
